@@ -1,0 +1,1 @@
+£export PS2='\w$(_git_ps1 "(%s)") > '
